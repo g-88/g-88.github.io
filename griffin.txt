@@ -1,4 +1,4 @@
-<span id="a">root@griffin</span>:<span id="b">~</span><span id="c">$</span> tail -f /log/whoami.log<br/><br/>
+<span id="a">root@griffin</span>:<span id="b">~</span><span id="c">$</span> tail -f /log/who_am_i.log<br/><br/>
 Hey, I'm Griffin!<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I'm a graduate of Dalhousie University - B.Comm '20 Finance.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br />I have an orange cat named Roxanne.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
