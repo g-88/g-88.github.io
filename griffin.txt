@@ -3,7 +3,8 @@ Hey, I'm Griffin!<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br />
 <p>I'm a graduate of Dalhousie University - B.Comm '20 Finance.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br />I have an orange cat named Roxanne.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<br />I'm an avid golfer and my goal is to break 80 in the 2023 season.<!-- laglaglaglaglaglaglaglaglaglaglaglag --></p>
+<br />I'm an avid golfer and my goal is to break 80 in the 2024 season.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<br />My focus lately is learning new skills, such as, learning how to code! hello world 👋🏻<!-- laglaglaglaglaglaglaglaglaglaglaglag --></p>
 
 <br />Here is my <a href='https://twitter.com/gtleblanc8' target="_blank">twitter account</a>.
 <br />This is my email: <a href='mailto:griffin.leblanc@gmail.com.com'>griffin.leblanc@gmail.com</a>.
